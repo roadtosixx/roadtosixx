@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roadtosixx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![RoadToSix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roadtosixx)](https://github.com/anuraghazra/github-readme-stats)
+[![RoadToSix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roadtosixx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/github-contribution-grid-snake.svg">
 <!--
