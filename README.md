@@ -1,23 +1,31 @@
 # RoadToSix
 
+Developer behind **[RoadShop](https://roadshop.org)**. I build devices, apps and maps for FiveM servers, from the Lua backend to the in-game interface.
 
+Coding since I was 11. Based in Germany.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roadtosixx&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[Website](https://roadshop.org) · [Store](https://fivem.roadshop.org) · [Discord](https://discord.gg/2nZrmmvM2q) · [RoadVR](https://roadvr.org)
 
-[![RoadToSix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roadtosixx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## What I build
 
-<img src="https://raw.githubusercontent.com/JayantGoel001/JayantGoel001/master/github-contribution-grid-snake.svg">
-<!--
-**roadtosixx/roadtosixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Product | What it is |
+|---|---|
+| **RoadPhone Pro** | Phone system for FiveM, including the foldable RoadPhone Fold |
+| **RoadPad** | Tablet that syncs with the player's RoadPhone |
+| **RoadWatch** | Smartwatch with notifications, music, health, Wallet tap-to-pay and workouts |
+| **RoadCarRadio** | In-car screen with music other players can hear and a rear camera |
+| **RoadTV** | Synced TV on in-game screens: paste a link and everyone nearby watches together |
+| **RoadVR** | Spatial interface with windows and wall widgets in the room, plus an SDK for custom apps |
 
-Here are some ideas to get you started:
+All resources support ESX, QBCore, Qbox and standalone servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open source
+
+- [road-bridge](https://github.com/roadtosixx/road-bridge): the compatibility layer between ESX, QBCore and Qbox that every Road resource uses
+- [roadphone-app-template](https://github.com/roadtosixx/roadphone-app-template): starting point for your own RoadPhone app
+- [roadpad-app-template](https://github.com/roadtosixx/roadpad-app-template): starting point for your own RoadPad app
+- [docs](https://github.com/roadtosixx/docs): source of the RoadShop documentation
+
+## Stack
+
+Lua · JavaScript · TypeScript · Vue 3 · Vite · Python · Blender
